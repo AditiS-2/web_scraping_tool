@@ -4,7 +4,7 @@ This is a simple and beginner-friendly web scraping tool built using **Python**,
 
 ---
 
-## 🔧 Features
+## Features
 
 - Input any website URL
 - Choose an HTML tag to extract (like `p`, `a`, `img`)
@@ -27,7 +27,7 @@ This is a simple and beginner-friendly web scraping tool built using **Python**,
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/web-scraping-tool.git
+   git clone https://github.com/AditiS-2/web_scraping_tool.git
    cd web-scraping-tool
    ```
 2. **Install dependencies:**
